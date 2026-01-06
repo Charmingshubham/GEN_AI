@@ -1,0 +1,11 @@
+# Ignore all Python virtual environments anywhere
+**/env/
+**/venv/
+**/.venv/
+**/*env*/
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
