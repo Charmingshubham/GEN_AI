@@ -1,0 +1,9 @@
+{
+    "title": "student",
+    "type": "object",
+    "description": "A student object with name and age",
+    "properties":{
+        "name":"string",
+        "age":"integer"},
+    "required": ["name","age"]
+}
