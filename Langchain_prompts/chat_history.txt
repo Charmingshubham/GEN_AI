@@ -1,0 +1,4 @@
+ai : how can i help u
+human : when will i get refund of my order of worth 1500rs
+ai : contacting my head for the info
+human: i want it urgent
